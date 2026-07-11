@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(204, 220, 221);
+    margin: 0;
+}
+.container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card{
+    background-color: white;
+    width: 300px;
+    max-width: 90%;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.qr-image{
+    width: 100%;
+    border-radius: 20px;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-size: 15px;
+    color: rgb(165, 165, 165);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
