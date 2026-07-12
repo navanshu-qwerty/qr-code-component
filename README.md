@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
-I tried approaching the challenge by visualizing the web page as a system of different layers. Main page -> Information card -> Image/Heading/Description
+I tried approaching the challenge by visualizing the web page as a system of different layers. Main page -> Information card -> Image/Heading/Description<br>
 
 <1> I created a "container" class which treats the main body as a flexbox. This allows me to use and align the information divisions over the whole display.<br>
 <2> By creating a "card" class i can build the white information cards which will display the image and its written contents. I used the height parameter to allow flexibility as the image can then resize itself according to the whole browser display. Moreover, by using a "card" class i can avoid repetetion and develop several cards via the same basic settings. <br>
