@@ -45,10 +45,10 @@ This project helped me in the following ways:<br>
 
 I used ChatGPT as a code reviewer and learning assistant throughout this project.
 
-Rather than asking for the solution, I used it to:
-<1> Review my HTML and CSS structure
-<2> Understand Flexbox concepts
-<3> Improve my approach to webpage planning
+Rather than asking for the solution, I used it to:<br>
+<1> Review my HTML and CSS structure<br>
+<2> Understand Flexbox concepts<br>
+<3> Improve my approach to webpage planning<br>
 <4> Learn why certain CSS properties work instead of simply copying code
 
 All HTML and CSS were written and implemented by me.
