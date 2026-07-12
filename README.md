@@ -30,7 +30,7 @@ I tried approaching the challenge by visualizing the web page as a system of dif
 
 ### What I learned
 
-This project helped me in the following ways:
+This project helped me in the following ways:<br>
 <1> Develop a systematic approach to webpages where i can analyse them as layered elements and avoid a complicated trial-and-error approach.<br>
 <2> Use HTML and CSS in a multi file project rather than relying on styling every element individually.<br>
 <3> Ability to use classes and avoiding multiple declarations or very narrowed generalizations which can lead to complicated results when the web page grows to multiple elements.<br>
